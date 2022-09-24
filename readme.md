@@ -20,7 +20,7 @@ Two-factor support has not yet been tested.
 
 <h2>Screenshots</h2>
 
-![Alt Menu](docs/images/Screenshot 2022-09-24 212451.png)
+![Alt Add Assets Menu](docs/images/2-asset-menu.jpg)
 
 
 
