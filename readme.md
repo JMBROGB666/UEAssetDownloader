@@ -20,17 +20,8 @@ Two-factor support has not yet been tested.
 
 <h2>Screenshots</h2>
 
-Login Screen
-![Alt Login Screen](docs/images/0-login.png)
+![Alt Menu](docs/images/Screenshot 2022-09-24 212451.png)
 
-My Projects
-![Alt My Projects](docs/images/1-my-projects.jpg)
-
-Add Assets Menu
-![Alt Add Assets Menu](docs/images/2-asset-menu.jpg)
-
-Downloading Assets
-![Alt Downloading Assets](docs/images/3-downloading-asset.jpg)
 
 
 <h2>Installation</h2>
