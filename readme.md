@@ -1,8 +1,10 @@
-<h1>The Unofficial Cross-Platform UE4 Launcher</h1>
+<h1>Unofficial Unreal Marketplace Downloader</h1>
 
-<strong><pre>This is a work in progress. Here be dragons!</pre></strong>
+<strong><pre>This is a work in progress.</pre></strong>
 
-This project is an unofficial cross-platform <a href="https://www.unrealengine.com/">Unreal Engine 4</a> Launcher that aims to be fully featured and work natively on <strong>Linux</strong> (as well as Windows and Mac).
+This project is an unofficial Marketplace downloader for <a href="https://www.unrealengine.com/">Unreal Engine </a> for those who Hate Epic Games (apart from UE) and don't want to have to download EGL to download assets from the UE Marketplace and for those on <strong>Linux</strong>.
+
+Platforms: Windows & Linux.
 
 <h2>Features</h2>
 
