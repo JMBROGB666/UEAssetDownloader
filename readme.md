@@ -1,3 +1,6 @@
+This is a Fork of <a herf=https://github.com/nmrugg/UE4Launcher>UE4Launcher</a>.
+Thanks.
+
 <h1>Unofficial Unreal Marketplace Downloader</h1>
 
 <strong><pre>This is a work in progress.</pre></strong>
@@ -8,13 +11,12 @@ Platforms: Windows & Linux.
 
 <h2>Features</h2>
 
-The launcher is incomplete; however, it should be able to preform most of the important tasks.
+The Manager is incomplete; however, it should be able to preform most of the important tasks (Downloading Assets!).
 
-It can launch projects as well as download and install assets and plugins from the <a href="https://www.unrealengine.com/marketplace/en-US/store">UE4 marketplace</a>.
+It download and install assets and plugins from the <a href="https://www.unrealengine.com/marketplace/en-US/store">UE Marketplace</a>.
 
-It does not yet install the UE4 engine. So, you need to <a href=https://docs.unrealengine.com/en-US/GettingStarted/Installation>manually install</a> that first. Also, two-factor support has not yet been tested.
+Two-factor support has not yet been tested.
 
-There are probably many bugs still, so please <a href="https://github.com/nmrugg/UE4Launcher/issues/new">file an issue</a> if you have a problem.
 
 <h2>Screenshots</h2>
 
@@ -38,42 +40,29 @@ Learn Tab
 
 <h2>Installation</h2>
 
-First, install <a href=https://nodejs.org/en/download/>node.js</a>.
+1. install <a href=https://nodejs.org/en/download/>node.js</a>.
 
-Then pull the project:
+2. Then Download the project:
+<a herf=https://github.com/JMBROGB666/UEAssetDownloader/archive/refs/heads/master.zip>Download</a>
+
+3. Open CMD, Powershell or your Terminal and enter the command bellow:
 ```bash
-git clone https://github.com/nmrugg/UE4Launcher.git
+cd C:\users\...\UEAssetDownloader
 ```
 
-Change directory:
-```bash
-cd UE4Launcher
-```
-
-Install the dependencies:
+4. Endter the command bellow to Install the dependencies:
 ```bash
 npm i
 ```
 
-Run the launcher:
+
+5. Launch UEAssetDownloader by running Run Unreal Marketplace Manager.bat.
+
+
+
+(Run command)
 ```bash
 npm start
 ```
 
 Hope for the best.
-
-<h2>Updating</h2>
-
-After installing, to update the launcher, simply run this in the UE4Launcher directory:
-
-```bash
-git pull
-npm i
-```
-
-<h2>Thanks</h2>
-
-Since I don't use Windows or macOS, I've never used the official UE4 launcher. So, these open source projects were invaluable to help me understand how the launcher worked.
-
- * https://github.com/Allar/ue4-mp-downloader
- * https://github.com/neutrino-steak/UE4LinuxLauncher
