@@ -1,4 +1,4 @@
-This is a Fork of <a herf="https://github.com/nmrugg/UE4Launcher">UE4Launcher</a>.
+This is a Fork of <a href="https://github.com/nmrugg/UE4Launcher">UE4Launcher</a>.
 Thanks.
 
 <h1>Unofficial Unreal Marketplace Downloader</h1>
@@ -43,7 +43,7 @@ Learn Tab
 1. install <a href=https://nodejs.org/en/download/>node.js</a>.
 
 2. Then Download the project:
-<a herf="https://github.com/JMBROGB666/UEAssetDownloader/archive/refs/heads/master.zip>Download"</a>
+<a href="https://github.com/JMBROGB666/UEAssetDownloader/archive/refs/heads/master.zip>Download"</a>
 
 3. Open CMD, Powershell or your Terminal and enter the command bellow:
 ```bash
