@@ -32,11 +32,6 @@ Add Assets Menu
 Downloading Assets
 ![Alt Downloading Assets](docs/images/3-downloading-asset.jpg)
 
-Asset Installed in UE4
-![Alt Asset Installed](docs/images/4-in-ue4.jpg)
-
-Learn Tab
-![Learn Tab](docs/images/5-learn-tab.jpg)
 
 <h2>Installation</h2>
 
