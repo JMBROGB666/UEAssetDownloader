@@ -31,7 +31,7 @@ Two-factor support has not yet been tested.
 2. Then Download the project:
 <a href="https://github.com/JMBROGB666/UEAssetDownloader/archive/refs/heads/master.zip">Download</a>
 
-3. Open CMD, Powershell or your Terminal and enter the command bellow:
+3. Open CMD, Powershell or your Terminal and enter the command below:
 ```bash
 cd C:\users\...\UEAssetDownloader
 ```
