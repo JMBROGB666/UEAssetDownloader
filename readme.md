@@ -26,7 +26,7 @@ Two-factor support has not yet been tested.
 <h2>Installation</h2>
 Windows:
 
-1. install <a href=https://nodejs.org/en/download/>node.js</a>.
+1. Install <a href=https://nodejs.org/en/download/>node.js</a>.
 
 2. Then <a href="https://github.com/JMBROGB666/UEAssetDownloader/archive/refs/heads/master.zip">Download</a> the project.
 
