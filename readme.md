@@ -24,11 +24,19 @@ Two-factor support has not yet been tested.
 
 
 <h2>Installation</h2>
-
+Windows:
 1. install <a href=https://nodejs.org/en/download/>node.js</a>.
 
-2. Then Download the project:
-<a href="https://github.com/JMBROGB666/UEAssetDownloader/archive/refs/heads/master.zip">Download</a>
+2. Then <a href="https://github.com/JMBROGB666/UEAssetDownloader/archive/refs/heads/master.zip">Download</a> the project.
+
+3. Run Installer.bat to install dependencies.
+
+4. Launch UEAssetDownloader by running Run Unreal Marketplace Manager.bat.
+
+Linux:
+1. install <a href=https://nodejs.org/en/download/>node.js</a>.
+
+2. Then <a href="https://github.com/JMBROGB666/UEAssetDownloader/archive/refs/heads/master.zip">Download</a> the project.
 
 3. Open CMD, Powershell or your Terminal and enter the command below:
 ```bash
@@ -40,12 +48,7 @@ cd C:\users\...\UEAssetDownloader
 npm i
 ```
 
-
-5. Launch UEAssetDownloader by running Run Unreal Marketplace Manager.bat.
-
-
-
-(Run command)
+5. Run command to launch UEAssetDownloader:
 ```bash
 npm start
 ```
