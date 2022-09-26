@@ -22,7 +22,6 @@ Two-factor support has not yet been tested.
 
 ![Alt Add Assets Menu](docs/images/2-asset-menu.jpg)
 
-![Alt Login Screen](docs/images/0-login.png)
 
 <h2>Installation</h2>
 
