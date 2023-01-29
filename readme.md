@@ -34,7 +34,7 @@ Windows:
 
 4. Launch UEAssetDownloader by running Run Unreal Marketplace Manager.bat.
 
-Linux:
+Other / Linux:
 1. install <a href=https://nodejs.org/en/download/>node.js</a>.
 
 2. Then <a href="https://github.com/JMBROGB666/UEAssetDownloader/archive/refs/heads/master.zip">Download</a> the project.
